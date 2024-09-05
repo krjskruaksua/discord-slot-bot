@@ -1,0 +1,2 @@
+# Discord Slot Bot
+- Paralıdır
