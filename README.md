@@ -1,2 +1,2 @@
-# discord-slot-bot
-Discord Slot Bot
+# Discord Slot Bot
+- Paralıdır
